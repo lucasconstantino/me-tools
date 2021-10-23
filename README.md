@@ -65,12 +65,7 @@ yarn test
 
   - [TypeScript](https://www.typescriptlang.org/docs/home.html)
 
-- Styling
-
-  - [styled-components](https://www.styled-components.com/docs)
-
 - Code quality tools
   - Prettier
   - ESLint
-  - stylelint
   - git hooks

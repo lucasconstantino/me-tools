@@ -1,1 +1,1 @@
-export { Home as default } from './home'
+export default () => <div>nothing to see here</div>

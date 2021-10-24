@@ -1,1 +1,3 @@
-export default () => <div>nothing to see here</div>
+const HomePage = () => <div>nothing to see here</div>
+
+export default HomePage

@@ -10,7 +10,7 @@
     "build": "next build",
     "start": "next start",
     "qa": "yarn test && yarn lint && yarn type-check",
-    "test": "jest",
+    "test": "echo 'No tests yet'",
     "type-check": "tsc",
     "lint": "eslint src --ext .ts,.tsx",
     "format": "prettier --write 'src/**/*.{ts,tsx}'",

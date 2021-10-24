@@ -65,6 +65,8 @@ const acceptInvitation = async (invitation: Invitation) => {
 
 /**
  * Automatically loop invitations and accept them.
+ *
+ * Called from Pipedream: https://pipedream.com/@lucasconstantino/p_MOC8QyR/edit?e=1zvi5416LISBBYFaRkPnwAmCdx9
  */
 const handler: NextApiHandler = async (_req, res) => {
   try {
